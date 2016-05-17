@@ -1,0 +1,107 @@
+html {
+	background-color: black;
+}
+div {
+
+}
+.bar1 { 
+	width: 1310px;
+	height: 50px;
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.bar2 img {
+	width: 50px;
+	height: 30px;
+}
+.bar2 {
+	width: 433px;
+	height: 500px;
+	background-color: yellow;
+	position: absolute;
+	top: 54px;
+	left:0px;
+}
+.bar3 {
+	width: 216px;
+	height:250px;
+	background-color: white;
+	position: absolute;
+	top: 558px;
+	left: 0px;
+}
+.bar4 {
+	width: 213px;
+        height:250px;
+        background-color: blue;
+        position: absolute;
+        top: 558px;
+        left: 219px;
+}
+.bar5 {
+	width: 216px;
+        height:250px;
+	background-color: white;
+	position: absolute;
+	top: 54px;
+	left: 437px;
+}
+.bar6 {
+	width: 216px;
+        height:250px;
+        background-color: red;
+        position: absolute;
+	top: 54px;
+	left: 657px;
+}
+.bar7 {
+	width: 435px;
+        height: 500px;
+        background-color: yellow;
+        position: absolute;
+	top: 308px;
+	left: 437px;
+}
+.bar8 {
+	width: 432px;
+	height: 250px;
+	background-color: white;
+	position: absolute;
+	top: 54px;
+	left: 877px;
+}
+.bar9 {
+	width: 216px;
+        height:250px;
+        background-color: red;
+        position: absolute;
+	top: 308px;
+	left: 877px;
+}
+.bar10 {
+	 width: 216px;
+        height:250px;
+        background-color: white;
+        position: absolute;
+        top: 308px;
+	left: 1096px;
+}
+.bar11 {
+	 width: 216px;
+        height:246px;
+        background-color: yellow;
+        position: absolute;
+        top: 562px;
+	left: 877px;
+}
+.bar12 {
+	width: 216px;
+        height:246px;
+        background-color: blue;
+        position: absolute;
+        top: 562px;
+	left: 1096px;
+}
+
